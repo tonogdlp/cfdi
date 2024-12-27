@@ -1,9 +1,10 @@
 [package]
 name = "cfdi"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "Crate for using Serde to import, deserialize and use CFDIs (Mexican Electronic Invoices) | Crate para importar CFDIs a Rust, usando Serde."
 license = "MIT"
+repository = "https://github.com/tonogdlp/cfdi"
 
 
 [dependencies]
